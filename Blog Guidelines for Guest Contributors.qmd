@@ -1,0 +1,59 @@
+---
+title: "Blog Guidelines for Guest Contributors"
+format: PositQuarto-pdf
+---
+
+We are always happy to consider guest contributions for publication from those with expertise in all areas of Posit. We do not dictate topics or viewpoints to guest contributors, although we are happy to suggest topics or areas of interest if you would like. Topic proposals should be sent to the content manager to be vetted and approved prior to writing.
+
+Posit marketing and messaging focus on “problems and solutions” because we believe this will be more effective for reaching our audience. As part of this, we want to align all our communication around telling consistent, compelling stories, because by telling consistent stories, our messaging will be amplified.
+
+Please search your proposed topic to make sure we have not already covered the topic or angle you are proposing on the Posit Blog.
+
+What to consider when creating a blog post:
+
+* **Audience:** Start with thinking about who is the audience for this content. What is their pain point? Which of our personas do they align with? For example, the Data Science Team Leader, Data Scientist,  or DevOps/IT Admins.
+* **Story arc:** What is your audience encountering? What’s important to them? Think about your content outline as a user story, e.g., “As a &lt;audience member>, I often struggle with &lt;problem>, which leads to &lt;pain or consequences>. Ideally, I’d like to be able to &lt;solution>, which would enable me to &lt;have some benefit>”. 
+* **Intent of your content:** What do you want your audience to get out of this content, to know, or do after they’ve read it? We are looking for the reader to walk away with a greater understanding of the relevant problems and solutions, and to continue to engage with us. If the takeaway is “buy our products” or “buy our services”, then we recommend re-evaluating your story arc to be less promotional in nature. 
+
+If the topic proposal is approved, please make sure your finalized article meets the following requirements/rules prior to submission:
+
+* **Please make sure the article is thoroughly copy-edited** prior to submission.
+* **Posts should be sent to us as an .md/.Rmd/.ipython/.qmd document** or a **Google/Word/Apple Pages document**.
+    * If sending a document with executable code, please ensure that the post is reproducible outside of your project environment (data is attached, file paths are properly formatted, etc.) or publish with `format: gfm` and share all the outputs (`.md` file, images, etc.).
+* **Posts should be a minimum of 600 words in length.** Although we prefer articles that are at least 800 to 1,000 words. Posts should generally not exceed 2,000 words. With longer works, we can split them up into segments and publish them as a “series” more suitable for online reading, if appropriate.
+* **Posts must not be commercial or solely promotional in nature**. Commercial or promotional articles cannot be considered.
+* **Posts with too many links can seem spammy to readers and search engine indexers. We ask you to link only to high-quality resources that offer important information and are true to the anchor text and article context. **We also ask you to minimize the number of links to your personal or company website.
+    * ✅ At rstudio::conf(2020) we [announced](https://rstudio.com/resources/rstudioconf-2020/making-the-shiny-contest/) the Shiny Contest 2020.
+    * ❌ Many data scientists ask us, “[what’s the best tool for creating interactive data visualizations](https://shiny.rstudio.com/)?“, let’s dive in.
+* **The post must have gone through your required internal review. **If you need to clear the post with your organization, this should be done prior to submission.
+* **Be coherent, interesting, informative, and pertinent to our readers**. In other words, topically relevant and aimed at the high-level readership we attract. “Topically relevant” can relate to:
+    * Industry case study that tells us what the problem was, your approach and solution, and what the outcome has been (example)
+    * Current thought in the industry or questions driving debate and associated tools/processes that can address those questions
+    * A story that describes your experience either through things that you learned, tools and processes you used, how you worked with your team or across teams
+    * A tutorial on a tool or workflow that readers could apply to their work
+* **Posts should have a clear storyline that can be followed with a start, a middle, and an end that are cohesive.** What is the novel idea? Why should we care? How are you going to prove the point? We enjoy considering outlines, but we publish fully developed posts. Persuade the audience that:
+    * 	The subject matter is important
+    * 	There is a gap that needs to be filled
+    * 	The post has the answer
+    * 	The post’s solution works
+    * 	The post’s idea is based on a logical progression of ideas and evidence
+* **Use concrete language and visual imagery.**
+    * **Is the conclusion to the point and not promotional?** Please make sure that you include a conclusion at the end of the article. It’s a great way to help the readers review and remember the essential points or ideas you’ve covered.
+    * **Can you add images, GIFs, clips to your post?** We encourage you to find ways to make the post engaging beyond text.
+* **Posts MUST be factual**, or if it is an opinion piece, it must be substantiated by fact, which must be referred to within the context of the piece.
+* **Posts MUST be correct.** While we do not filter based on opinion or viewpoints, posts must be technologically accurate.
+* **Exclusivity and Copyrights. **While you will retain the copyright, we require exclusivity online. If you wish to publish the article elsewhere online in English, we ask that they please publish only the first paragraph or two with a “Read More” link hyperlinked to the full article on the Posit Blog. You may translate the full article if it is in a different language.
+* **If the article includes figures**, the figures should be provided separately in either GIF, JPG, or PNG format, and not embedded into a Word document. We will need copyright authorization for any graphics to be included.
+* **In our experience, the title will dictate how many readers are attracted** to an article. While you are encouraged to suggest titles, the choice of the final title is up to the Editor. A title should ordinarily be 60 characters or less.
+* **Our blog requires a featured image.** If you have any ideas for a featured image, please let us know; otherwise, we will come up with one. If you would like to include a company logo, please also share the company’s brand guidelines.
+* **We require a short bio for each author (~ 2-3 sentences), **which includes their title, company or firm name, and any website URLs where you would like us to link the profile.  We also like to include **their LinkedIn URL** (feel free to include any other social media URLs as well)**.**
+* **Revisions**. Once submitted, our Editor may be in touch with any substantive content changes. **Please do not submit subsequent, revised versions once an article has been forwarded. **If you have crucial changes to a previously submitted article, please indicate via **tracked changes that are clearly visible**. Once an article is published, only very minor revisions will be made (i.e., no major rewrites or substantial revisions will be made after publication).
+* While we generally decide rather quickly, we need at least one week to review and consider an article for publication.  **We cannot guarantee the publication of any article, even if the topic has been previously approved. We also cannot guarantee publication within a certain timeline.**
+
+::: {.callout-note}
+## Important note
+
+Please be advised that once an article is submitted, through the editing process, and approved for publication, it will be published. After an article topic is approved and the article submitted, we will only go back to the author for major revisions. Minor wording changes that affect only readability/SEO are at the discretion of the Editor.
+:::
+
+**Thank you for contributing to the Posit Blog!**

@@ -1,2 +1,1 @@
-# blog-contribution-guidelines
-Blog Guidelines for Guest Contributors
+# Posit Blog Guidelines for Guest Contributors

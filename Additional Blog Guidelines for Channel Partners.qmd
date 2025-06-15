@@ -1,0 +1,45 @@
+---
+title: "Additional Blog Guidelines for Channel Partners"
+format: PositQuarto-pdf
+---
+
+Our goal is to create compelling, value-driven content that educates our audience, showcases real-world Posit applications, and highlights your unique expertise. To achieve this, we prioritize blog posts that demonstrate tangible solutions and customer success.
+
+* **Option 1: Technical Deep Dive:** A detailed blog post outlining a specific technical challenge your customer faced, how you leveraged Posit to solve it, and the tangible positive outcomes for the customer. Key elements include:
+  - Clearly define the customer's technical problem.
+  - Explain the approach you took with Posit (e.g., using specific packages, developing a particular Shiny app, deploying via Posit Connect, etc.).
+  - Describe the solution in practical terms.
+  - Example Title Idea: "How [Partner Name] Used Posit to Optimize [Customer Name/Industry] Data Workflows and Reduce Reporting Time by 50%"
+* **Option 2: Case Study:** A blog post structured like a mini-case study, detailing a customer's journey from challenge to success using Posit, with your firm's implementation expertise.
+  - Describe the customer's initial situation and goals.
+  - Detail how Posit, combined with your services, provided the solution.
+  - Quantify the results and benefits the customer achieved.
+  - Example Title Idea: "Transforming Risk Analysis at [Customer Name/Industry]: A Posit Success Story with [Partner Name]"
+  
+## Customer validation is key
+
+We highly encourage (and prefer) posts that:
+
+*  **Include names:** Write about a specific customer (named client preferred) and their unique case study using Posit. The highest priority will be given to posts with named customers (e.g., "How Acme Corp. Transformed Their Data Science with Posit").
+* **Include customer validation:** Include a direct quote from your customer describing the positive impact of the solution or their satisfaction with your services and Posit. Posts with customer quotes will be given preferential review and publication.
+
+It is the sole responsibility of the submitting partner to ensure that all customer names, quotes, data, case details, and any other specific information mentioned in the blog post have been explicitly approved by the customer prior to submission to Posit. Posit will not publish content without this implicit assurance from the partner. Submitting content implies you have secured all necessary permissions.
+
+## Additional guidelines:
+
+Please review the general Blog Guidelines for Guest Contributors; in addition:
+
+* **Add high-level takeaways:** Ensure readers can glean practical insights or actionable advice from your post, even if it's high-level.
+* **Show, don't tell:** Instead of saying "Our solution is innovative," describe how it's innovative through concrete examples of its impact.
+* **Use audience-centric language:** Always write with the reader's needs and interests in mind. Shift from "we" (what your company does) to "you" (what the reader can gain).
+* **Prioritize authenticity over hype:**  Avoid overly enthusiastic or exaggerated claims. Stick to factual, verifiable information and genuine success stories.
+* **Demonstrate your expertise:** Highlight your firm's specific role in the solution, showcasing your unique skills, implementation approach, or strategic guidance. The post should reflect your contribution, not just Posit's features.
+* **Use an educational and informative tone:**  Write in a clear, concise, and helpful manner. The primary goal is to educate the reader, not to directly sell. Avoid overly salesy language, buzzwords, or jargon without clear explanation. If technical terms are necessary, define them.
+* **Add an appropriate call to action:** The CTA at the end of the post should encourage further learning or a natural next step, not a hard sales pitch.
+* While your firm will be credited as the author, by submitting, you grant Posit the right to publish and promote the content across our platforms.
+
+All submissions will undergo an editorial review by the Posit team to ensure adherence to these guidelines, quality, and alignment with our brand voice. We reserve the right to request revisions, suggest edits, or decline to publish any submission that does not meet our standards.
+
+By following these guidelines, you'll help us create a powerful resource that showcases the true value of Posit and your exceptional capabilities to our shared audience. 
+
+**We look forward to collaborating with you!**
